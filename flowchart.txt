@@ -1,0 +1,50 @@
+Notebook
+---------
+
+1. Importing the packages
+2. Exploring the dataset 
+	- Heart beatsound Data
+3. Create multiple datasets
+		- Beats Sounds 
+		- Heart Beats
+           	- Multi heart Beats
+4. Feature extraction
+	- librosa to extract features
+		- MFCC
+		- Chroma STFT
+		- MelSpectrogram Value
+		- Zero Crossing Rate
+		- RMS value
+5. Data Visualization
+		- Sample Outcome for each data
+6. Label Encoding 
+7. Selecting the X and y  Data
+8. Splitting the dataset
+9. Building the model  for each data
+
+            - SVM
+            - XGBoost
+            - NLP
+            - LightGBM
+		- Voting Classifier (AdaBoosted + BaggingNLP)
+
+
+10. Training and Building the model
+11. Comparing the models with accuracy, precision,f1 score,  Recall
+12. Comparison graphs are generated with scores of all models.
+
+FrontEnd
+---------
+
+12. Frontend is developed with help of Flask Framework, along with Registration and Login setup with support of Sqlite DB
+13. For the frontend we have used dataset 
+14. User gives input
+15. The given input is preprocessed for prediction
+16. Trained model is used for prediction
+17. Final outcome is displayed through frontend
+
+
+
+
+
+
